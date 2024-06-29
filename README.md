@@ -1,6 +1,12 @@
 
 # End to end Text-Summarizer-Project
 
+## ==========NOTE======== ##
+# 1. FIRST update two file config and reserch file and run model
+# 2. now move to model encoding part and do all change in src file  
+#   ---> entity file, configaration.py,components,pipeline
+#   ---> main.py
+# 3. app.py
 ## Workflows
 
 1. Update config.yaml

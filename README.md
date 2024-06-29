@@ -1,12 +1,12 @@
 
 # End to end Text-Summarizer-Project
 
-## ==========NOTE======== ##
-# 1. FIRST update two file config and reserch file and run model
-# 2. now move to model encoding part and do all change in src file  
-#   ---> entity file, configaration.py,components,pipeline
-#   ---> main.py
-# 3. app.py
+#### ==========NOTE======== ##
+#####  1. FIRST update two file config and reserch file and run model
+#####  2. Now move to model encoding part and do all change in src file  
+#####    ---> entity file, configaration.py,components,pipeline
+#####    ---> main.py, prediction.py
+#####  3. app.py
 ## Workflows
 
 1. Update config.yaml
@@ -25,7 +25,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/praveenaiiisc/Text-Summarization-NLP-Project.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 

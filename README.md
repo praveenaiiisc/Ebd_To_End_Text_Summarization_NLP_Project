@@ -1,12 +1,12 @@
 
 # End to end Text-Summarizer-Project
 
-#### ==========NOTE======== ##
-#####  1. FIRST update two file config and reserch file and run model
-#####  2. Now move to model encoding part and do all change in src file  
-#####    ---> entity file, configaration.py,components,pipeline
-#####    ---> main.py, prediction.py
-#####  3. app.py
+##### ==========NOTE======== ##
+######  1. FIRST update two file config and reserch file and run model
+######  2. Now move to model encoding part and do all change in src file  
+######    ---> entity file, configaration.py,components,pipeline
+######    ---> main.py, prediction.py, app.py
+
 ## Workflows
 
 1. Update config.yaml
@@ -55,12 +55,6 @@ open up you local host and port
 ```
 
 
-```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
-
-```
 
 
 

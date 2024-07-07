@@ -24,8 +24,6 @@ pip install -r requirements.txt
 # Finally run the following command for creating App
 python app.py
 ```bash
-open up you local host and port
-```
 
 
 

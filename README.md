@@ -1,7 +1,7 @@
 
 # End to end Text-Summarizer-Project
-
-## Text_Summarization_Result:
+- In this projects i use this model "google/pegasus-cnn_dailymail" for implement Summarization task on a given dialog paragraph by traing on a given dataset
+### Text_Summarization_Result:
 - ![Screenshot 2024-07-14 153948](https://github.com/user-attachments/assets/99e916c4-afbd-47c4-89a5-f3df98c7d12e)
 - Authontication
 - ![Screenshot 2024-07-14 155423](https://github.com/user-attachments/assets/afbf39c5-15a1-4c4c-b870-2da7fa3d4dd5)
